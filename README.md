@@ -1,1 +1,1 @@
-# giagrams
+# diagrams
